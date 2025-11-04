@@ -146,6 +146,12 @@ src/
 - **Lucide React** - Beautiful, customizable SVG icon library
 - **CSS3** - Modern styling with flexbox, grid, and custom properties
 
+<img width="1512" height="982" alt="Screenshot 2025-11-04 at 9 30 17 PM" src="https://github.com/user-attachments/assets/6c7a3fae-f1fd-4e61-85d4-dd1d22f9a2a5" />
+<img width="1512" height="982" alt="Screenshot 2025-11-04 at 9 30 32 PM" src="https://github.com/user-attachments/assets/92840360-c2e1-4c2d-93a3-7e3b4e921b0b" />
+<img width="1512" height="982" alt="Screenshot 2025-11-04 at 9 30 41 PM" src="https://github.com/user-attachments/assets/491a03a9-8077-4740-aacd-29f7332e6c08" />
+<img width="1512" height="982" alt="Screenshot 2025-11-04 at 9 30 49 PM" src="https://github.com/user-attachments/assets/2f66b52f-315e-40fb-9431-b8ed4a48a17e" />
+
+
 ## Browser Support
 
 - Chrome 70+
